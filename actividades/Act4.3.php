@@ -1,5 +1,5 @@
 <?php
-$var = "5abc";
+$var = "10";
 $suma = $var + 20;
 echo "El resultado de la suma es: " . $suma;
 ?>
