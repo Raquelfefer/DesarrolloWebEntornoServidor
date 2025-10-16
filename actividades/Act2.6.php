@@ -7,7 +7,7 @@
 <body>
     <h1>
     <?php
-       echo "Datos personales" 
+       echo "Datos personales";
     ?>
     </h1>
     <p>Raquel Fernández Fernández</p>
